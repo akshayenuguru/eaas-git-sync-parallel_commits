@@ -3,4 +3,5 @@ kind: Namespace
 metadata:
   name: system-git-ns-parallel-07
   project: eaas-git-sync-parallel
-spec: {}
+spec:
+  resourceQuotas: {}
