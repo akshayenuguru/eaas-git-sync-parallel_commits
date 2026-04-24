@@ -1,6 +1,0 @@
-apiVersion: infra.k8smgmt.io/v3
-kind: Namespace
-metadata:
-  name: system-git-ns-parallel-10
-  project: eaas-git-sync-parallel
-spec: {}
